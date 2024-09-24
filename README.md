@@ -11,8 +11,8 @@
 <li> I created my repository in the web version of GitHub, and then after signing into the desktop application I cloned the web repository onto my device.</li>
 </ol>
 
-{
-    #About Me
+
+#About Me
 ##My Interests
 *I enjoy dancing.
 *Discovering new music.
@@ -20,6 +20,5 @@
 *I am learning German.
 *And I am taking signing lessons.
 ##Websites I recommend
-* [Preply] (https://preply.com/en/home) - I find Preply very helpful for learning German and communicating with my tutor.
-* [Miro] (https://miro.com/) - I find Miro very helpful for collaborative work and brainstorming for new projects.
-}
+* [Preply](https://preply.com/en/home) - I find Preply very helpful for learning German and communicating with my tutor.
+* [Miro](https://miro.com/) - I find Miro very helpful for collaborative work and brainstorming for new projects.
