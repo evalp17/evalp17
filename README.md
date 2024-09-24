@@ -12,12 +12,12 @@
 </ol>
 
 
-#About Me
-##My Interests
-*I enjoy dancing.
-*Discovering new music.
-*Going on walks with my dog.
-*I am learning German.
+# About Me
+## My Interests
+* I enjoy dancing.
+* Discovering new music.
+* Going on walks with my dog.
+* I am learning German.
 *And I am taking signing lessons.
 ##Websites I recommend
 * [Preply](https://preply.com/en/home) - I find Preply very helpful for learning German and communicating with my tutor.
