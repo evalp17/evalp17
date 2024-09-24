@@ -19,6 +19,6 @@
 * Going on walks with my dog.
 * I am learning German.
 *And I am taking signing lessons.
-##Websites I recommend
+## Websites I recommend
 * [Preply](https://preply.com/en/home) - I find Preply very helpful for learning German and communicating with my tutor.
 * [Miro](https://miro.com/) - I find Miro very helpful for collaborative work and brainstorming for new projects.
